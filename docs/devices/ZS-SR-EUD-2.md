@@ -28,7 +28,8 @@ pageClass: device-page
 <!-- Notes END: Do not edit below this line -->
 
 
-
+## Pairing
+Press a switch button 6 times, holding down on the 6th press. Release when the lights flash while pairing.
 
 ## Exposes
 
